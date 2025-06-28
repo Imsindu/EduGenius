@@ -16,7 +16,7 @@ cd ..
 ## Usage 
 create `.env` file in `./backend/` directory with the following contents (get your api key from [here](https://ai.google.dev/aistudio) )
 ```bash
-GEMINI_API_KEY=AIzaSyACI_8tFrMhhEDVqdsk2F5vtumLbfosvD0
+GEMINI_API_KEY=MY_API_KEY
 ```
 then to start backend
 ```bash
